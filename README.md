@@ -1,4 +1,6 @@
-Support Chat here -> [![Join the chat at https://gitter.im/Mitsubishi-Heat-Pump](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Mitsubishi-Heat-Pump?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  <-Support Chat here
+Forked from https://github.com/SwiCago/HeatPump/tree/ca4b8f95d6eff88915d48408a07083a1f16c1d8a
+Commit from Apr 26, 2022
+
 
 # HeatPump
 
